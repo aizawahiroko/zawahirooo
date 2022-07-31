@@ -4,7 +4,7 @@ import "./styles.css";
 export const App = () => {
   return (
     <>
-      <div>いいい</div>
+      <div>uuu</div>
     </>
   );
 };
